@@ -1,0 +1,1 @@
+$function ncs:resize {t:"$(t)",s:1}

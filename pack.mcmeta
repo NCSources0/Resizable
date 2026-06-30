@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 107.1,
+    "description": "Use /function ncs:resize {t:\"@s\",s:0.5} to half your size!"
+  }
+}
